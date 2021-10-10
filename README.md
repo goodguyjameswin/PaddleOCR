@@ -1,2 +1,3 @@
 # PaddleOCR
-PaddleOCR工程调试:construction:
+PaddleOCR工程调试 :construction:
+Details are in my [blog](www.sao-kirito.top)
